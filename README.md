@@ -25,6 +25,10 @@ EcoScan AI combines a React frontend, an Express API, a SQLite database, and a P
 
 The application currently maps classifications to categories including **Plastic, Paper, Glass, Metal, Organic, E-Waste**, and **Other / Unknown**.
 
+## Application screenshot
+
+![EcoScan AI dashboard](./EcoScan%20AI%20Eco%20Dashboard.png)
+
 ## Features
 
 - Account registration and login.
